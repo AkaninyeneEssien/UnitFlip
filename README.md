@@ -4,9 +4,35 @@ A clean, lightweight unit converter web app built with vanilla HTML, CSS, and Ja
 
 ---
 
-## Live Demo
+## Table of contents
 
-> _Add your deployment link here (GitHub Pages, Netlify, Vercel, etc.)_
+-   [Demo](#demo)
+    -   [Gif Demo](#gifdemo)
+    -   [Live Demo](#livedemo)
+-   [Features](#features)
+-   [Conversions Supported](#conversionssupported)
+-   [Conversion Precision](#conversionprecision)
+-   [How It Works](#howitworks)
+-   [Local Storage](#localstorage)
+-   [Project Structure](#projectstructure)
+-   [Tech Stack](#techstack)
+-   [Getting Started](#gettingstarted)
+-   [Planned Improvements](#plannedimprovements)
+-   [Author](#author)
+-   [Contributing](#contributing)
+-   [Support](#support)
+-   [License](#license)
+
+---
+
+
+## Demo
+
+### Gif Demo
+
+### Live Demo
+
+👉 [View Live Project](https://unitflip.netlify.app/)
 
 ---
 
@@ -65,7 +91,7 @@ On page load      →  localStorage.getItem("lastInput") → restore + reconvert
 ## Project Structure
 
 ```
-shiftr/
+unitflip/
 ├── index.html
 ├── style.css
 └── script.js
@@ -87,8 +113,8 @@ shiftr/
 No installation needed. Just clone and open in a browser.
 
 ```bash
-git clone https://github.com/your-username/shiftr.git
-cd shiftr
+git clone https://github.com/AkaninyeneEssien/UnitFlip
+cd unitflip
 open index.html
 ```
 
@@ -100,13 +126,28 @@ open index.html
 - [ ] Speed conversion (km/h ↔ mph)
 - [ ] Dark / light mode toggle
 - [ ] Conversion history log (stored in localStorage)
-- [ ] Mobile-first responsive redesign
+- [ ] UI Modifications
 
 ---
 
 ## Author
+**Akaninyene Monday Essien**
+- [GitHub](https://github.com/AkaninyeneEssien)
+- [LinkedIn](https://www.linkedin.com/in/akaninyene/)
 
-**Akany** — [@akanyverse](https://instagram.com/anydesygns)
+---
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome.
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please give it a ⭐
+It helps others discover it!
 
 ---
 
