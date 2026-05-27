@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <title>Unit Converter</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="title">Metric/Imperial Unit Conversion</h1>
+            <input class="text-field" id="text-input" type="number">
+            <button class="btn" id="btn-convert">Convert</button>
+        </header>
+        <main class="cards-container">
+            <div class="card">
+                <h3 class="title-card">Length (Meter/Feet)</h3>
+                <div class="details-card">
+                    <p class="left-details-card" id="meter-to-feet"></p>
+                    <p class="right-details-card" id="feet-to-meter"></p>
+                </div>
+            </div>
+            <div class="card">
+                <h3 class="title-card">Volume (Liters/Gallons)</h3>
+                <div class="details-card">
+                    <p class="left-details-card" id="liter-to-gallon"></p>
+                    <p class="right-details-card" id="gallon-to-liter"></p>
+                </div>
+            </div>
+            <div class="card">
+                <h3 class="title-card">Mass (Kilograms/Pounds)</h3>
+                <div class="details-card">
+                    <p class="left-details-card" id="kilo-to-pound"></p>
+                    <p class="right-details-card" id="pound-to-kilo"></p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
