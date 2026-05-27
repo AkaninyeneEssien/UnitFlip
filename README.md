@@ -124,7 +124,7 @@ open index.html
 
 - [ ] Temperature conversion (Celsius ↔ Fahrenheit ↔ Kelvin)
 - [ ] Speed conversion (km/h ↔ mph)
-- [x] Dark / light mode toggle
+- [ ] Dark / light mode toggle
 - [ ] Conversion history log (stored in localStorage)
 - [ ] UI Modifications
 
