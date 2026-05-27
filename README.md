@@ -130,13 +130,6 @@ open index.html
 
 ---
 
-## Author
-**Akaninyene Monday Essien**
-- [GitHub Profile](https://github.com/AkaninyeneEssien)
-- [LinkedIn](https://www.linkedin.com/in/akaninyene/)
-
----
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome.
@@ -146,6 +139,13 @@ Feel free to fork this repo and submit a pull request.
 
 If you found this project helpful, please give it a ⭐
 It helps others discover it!
+
+---
+
+## Author
+**Akaninyene Monday Essien**
+- [GitHub Profile](https://github.com/AkaninyeneEssien)
+- [LinkedIn](https://www.linkedin.com/in/akaninyene/)
 
 ## License
 
