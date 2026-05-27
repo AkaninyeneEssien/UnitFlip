@@ -132,7 +132,7 @@ open index.html
 
 ## Author
 **Akaninyene Monday Essien**
-- [GitHub](https://github.com/AkaninyeneEssien)
+- [GitHub Profile](https://github.com/AkaninyeneEssien)
 - [LinkedIn](https://www.linkedin.com/in/akaninyene/)
 
 ---
@@ -142,14 +142,10 @@ open index.html
 Contributions, issues, and feature requests are welcome.
 Feel free to fork this repo and submit a pull request.
 
----
-
 ## ⭐ Support
 
 If you found this project helpful, please give it a ⭐
 It helps others discover it!
-
----
 
 ## License
 
