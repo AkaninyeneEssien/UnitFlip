@@ -63,6 +63,3 @@ window.addEventListener("load", function(){
         convert()
     }
 })
-
-// localStorage.clear()
-
